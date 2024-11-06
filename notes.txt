@@ -1,3 +1,0 @@
-Notes pour le projet :
-- Ce projet est destiné à apprendre Git.
-- Il contient des fichiers pour tester l'ajout et le suivi des fichiers.
